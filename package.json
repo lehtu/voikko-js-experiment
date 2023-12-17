@@ -1,0 +1,14 @@
+{
+  "name": "voikko_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "wasm": "node with-wasm/index.js",
+    "nowasm": "node without-wasm/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
